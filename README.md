@@ -36,6 +36,11 @@ Multiple parameters are available for modificitaion, with the most important bei
 - *hector_navigation/hector_path_follower/src/hector_path_follower.cpp* containts several parameters. These parameters are: `tolerance_trans` (allowed error for linear movement), `tolerance_rot` (allowed error for angular movement), `max_vel_lin` (maximum linear velocity), `max_vel_th` (maximum angular velocity), `min_vel_lin` (minimum linear velocity), `min_vel_th` (minimum angular velocity);
 - *RPLidar_Hector_SLAM/hector_slam/hector_mapping/launch/mapping_demo.launch* containts parameters for environment mapping. It is recommeneded to keep the parameter `map_size` on values no greater than 1024. The map update parameters should be setup in accordance to the specifications of the lidar sensor you are using; 
 
+## Example:
+ ![First floor of the Faculty of Electrical Engineering in Sarajevo](https://raw.githubusercontent.com/eteskeredzic/ETFmobileRobot/master/floormap.png)
+ 
+First floor of the Faculty of Electrical Engineering in Sarajevo
+
 ## External links:
 
 - [Hector SLAM](http://wiki.ros.org/hector_slam)
