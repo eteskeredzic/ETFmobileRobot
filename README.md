@@ -41,7 +41,13 @@ Multiple parameters are available for modificitaion, with the most important bei
  
 First floor of the Faculty of Electrical Engineering in Sarajevo
 
+## Paper:
+We also wrote a paper on this. Read it here: [Low cost UGV platform for autonomous 2D navigation and map-building based on a single sensory input](https://ieeexplore.ieee.org/document/9263975)
+
 ## External links:
 
 - [Hector SLAM](http://wiki.ros.org/hector_slam)
 - [Hector Navigation](http://wiki.ros.org/hector_navigation)
+
+## Special thanks:
+I would like to thank my good friends an colleagues [Adnan Arnautovic](https://github.com/Ekvinto), [Amar Bico](https://github.com/bicoamar), [Damad Butkovic](https://github.com/dbutkovic1), and [Kenan Karahodzic](https://github.com/kkarahodzi1), in assisting the process of constructing, testing, and debugging this mobile robot platform.
